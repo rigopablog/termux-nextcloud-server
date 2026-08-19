@@ -1,5 +1,7 @@
 # termux-nextcloud-server
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Run a full Nextcloud instance (MariaDB + PHP-FPM + nginx) on an Android
 phone using Termux, exposed to the internet via a Cloudflare Tunnel, kept
 alive across reboots with Termux:Boot.
